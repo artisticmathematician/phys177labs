@@ -1,0 +1,2 @@
+Integration by trapeziod rule and simpsons rule respectively (unit in meters):
+7.8945305	7.798775
