@@ -1,0 +1,8 @@
+This is the programming lab unit I wrote. I saved all my handouts in .odt and .docx. I would prefer they were graded in .odt if possible. I only included the .docx format just in case the .odt format did not open. Also, all of my solutions to each lab have the word "solution" in their titles. Any .py files that are missing the word "solution" in their titles are copies of code that students would get to assist them during these labs.
+
+I will be bringing hard copies of my handouts to my presenation so other students can briefly look through them.
+
+Lastly, My presentation slides are included here. I will bring a copy of the presentation with me when it is my turn to present. I was not sure if you would have slides loaded up for us or if we needed to bring the files on our own.
+
+Thank you for your time,
+Chris C. 
